@@ -4,6 +4,13 @@
              xmlns:local="clr-namespace:CalibrationParse"
              StartupUri="View/MainWindow.xaml">
     <Application.Resources>
-         
+	    <ResourceDictionary>
+		    <ResourceDictionary.MergedDictionaries>
+			    <ResourceDictionary Source="../View/Styles/ButtonStyle.xaml"/>
+			    <ResourceDictionary Source="../View/Styles/ComboBoxStyle.xaml"/>
+			    <ResourceDictionary Source="../View/Styles/DataGridStyle.xaml"/>
+			    <ResourceDictionary Source="../View/Styles/ScrollViewerStyle.xaml"/>
+		    </ResourceDictionary.MergedDictionaries>
+	    </ResourceDictionary>
     </Application.Resources>
 </Application>

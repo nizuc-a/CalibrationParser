@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
 D:\C# projects\CalibrationParse\CalibrationParse\App.xaml
-1-487866684
+51047367998
 
 7-2129390189
 198-1658441850
-View\MainWindow.xaml;
+View\MainWindow.xaml;View\Styles\ButtonStyle.xaml;View\Styles\ComboBoxStyle.xaml;View\Styles\DataGridStyle.xaml;View\Styles\ScrollViewerStyle.xaml;
 
-True
+False
 

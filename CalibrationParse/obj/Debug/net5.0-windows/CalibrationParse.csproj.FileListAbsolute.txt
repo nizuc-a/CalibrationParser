@@ -29,5 +29,8 @@ D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\Genera
 D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\CalibrationParse.csproj.Fody.CopyLocal.cache
 D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\CalibrationParse.csproj.Fody.RuntimeCopyLocal.cache
 D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\CalibrationParse.csproj.CopyComplete
-D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\View\Parse2Bytes.g.cs
-D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\View\Parse2Bytes.baml
+D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\App.baml
+D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\View\Styles\ButtonStyle.baml
+D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\View\Styles\ComboBoxStyle.baml
+D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\View\Styles\DataGridStyle.baml
+D:\C# projects\CalibrationParse\CalibrationParse\obj\Debug\net5.0-windows\View\Styles\ScrollViewerStyle.baml

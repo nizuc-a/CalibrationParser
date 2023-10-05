@@ -22,7 +22,7 @@ namespace CalibrationParse
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
             vm.OpenFile(openFileDialog);
-            comboBox.SelectedIndex = 0;
+            ComboBox.SelectedIndex = 0;
         }
     }
 }
